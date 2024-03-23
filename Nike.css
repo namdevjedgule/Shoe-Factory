@@ -1,0 +1,250 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.h1{
+    font-size: 100%;
+    font-weight: bolder !important;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.bg{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/31ff59e2-89d0-4a83-839a-656618674782/air-jordan-1-mid-shoes-SQf7DM.png");
+    height: 550px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5%;
+}
+
+.mdiv1{
+    height:550px;
+    width: 30%;
+    border: 1px solid lightgray;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+}
+
+h3{
+   margin-left: 20px;
+   font-size: 40px !important;
+   margin-top: 20px;
+   font-weight: 400 !important;
+}
+
+.img5{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a41255d9-93cd-4502-bb7f-25decd426e7a/sb-zoom-blazer-low-pro-gt-skate-shoes-ckWK6g.png");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-right: 4%;
+    margin-left: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt4{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img6{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6cd93d4b-ee6d-4404-b7d4-52c55fa4ed7a/blazer-mid-77-shoes-kqJpbl.png");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt5{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img7{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5ed530e8-1bb9-45e6-9c63-8703c668d95c/blazer-mid-77-older-shoes-4Vk9Rd.png");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-right: 4%;
+    margin-left: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt6{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img8{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b4931cf4-18f3-41ea-972b-43969d746a7a/sb-zoom-blazer-low-pro-gt-skate-shoes-ckWK6g.png");
+    height: 400px;
+    width: 90%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt7{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container1{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+    margin-right: 13px;
+}
+
+.img9{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/41cc9410-6ecd-4693-ac9c-b79e9519bdf4/air-max-90-gore-tex-shoes-K3mBRb.png");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt8{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 5px;
+}
+
+
+.img10{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/540961b4-cee1-4989-8300-18b5a530c178/air-force-1-07-shoes-587rld.png");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt9{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img11{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1054491f-bd40-4c3b-ac6c-45dd9c852671/infinityrn-4-road-running-shoes-mLRjcz.png");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt10{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img12{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/84c6e45a-77d0-450e-87a2-e3b4c4fbaa83/air-jordan-1-zoom-cmft-2-shoes-nX8Qqx.png");
+    height: 400px;
+    width: 90%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt11{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container2{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+    margin-right: 13px;
+}

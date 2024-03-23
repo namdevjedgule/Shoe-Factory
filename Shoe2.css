@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.container {
+    display: flex; 
+  }
+  
+  .column {
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 1%; 
+    text-align: center; 
+    margin-left: 1%;
+    margin-top: 1%;
+  }
+
+.img1{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/752cc0fbbd2d4df89059afb000bbfb75_9366/Ultraboost_Light_Red_HQ1402_01_standard.jpg");
+    height: 550px;
+    width: 98%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img2{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4993e0557d224195ace1afb000bc171f_9366/Ultraboost_Light_Red_HQ1402_02_standard_hover.jpg");
+    height: 550px;
+    width: 95%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.container1{
+    display: flex; 
+  }
+  
+  .column1{
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 1%; 
+    margin-left: 1%;
+    text-align: center; 
+    margin-top: 1%;
+  }
+
+  .img3{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/752cc0fbbd2d4df89059afb000bbfb75_9366/Ultraboost_Light_Red_HQ1402_01_standard.jpg");
+    height: 550px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img4{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0823b65725934bfe995dafb000bc07b7_9366/Ultraboost_Light_Red_HQ1402_06_standard.jpg");
+    height: 550px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.pre{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 170%;
+  font-weight: bold;
+  color: red;
+}
+
+.button{
+  height: 40px;
+  width: 10%;
+  border-radius: 50px;
+  margin: 5px;
+  background-color:transparent;
+  align-items: center;
+  justify-content: center;
+  font-weight:bolder;
+  font-size: large;
+  color: black;
+  border: 0.5px solid lightgray;
+  font-size: medium;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.add{
+  height: 50px;
+  width: 50%;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.wishlist{
+  height: 50px;
+  width: 30%;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+ margin-left: 15px;
+}
+
+.txt{
+ font-family: 'Fantasy';
+  font-size: 20px;
+
+ 
+}

@@ -1,0 +1,125 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.container {
+    display: flex; 
+  }
+  
+  .column {
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 10px; 
+    text-align: center; 
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+.img1{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/391174/07/sv01/fnd/IND/fmt/png/RS-X-Geek-Unisex-Sneakers");
+    height: 550px;
+    width: 98%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img2{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/391174/07/mod01/fnd/IND/fmt/png/RS-X-Geek-Unisex-Sneakers");
+    height: 550px;
+    width: 95%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.container1{
+    display: flex; 
+  }
+  
+  .column1{
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 10px; 
+    margin-left: 10px;
+    text-align: center; 
+    margin-top: 10px;
+  }
+
+  .img3{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/391174/07/fnd/IND/fmt/png/RS-X-Geek-Unisex-Sneakers");
+    height: 550px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img4{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/391174/07/sv03/fnd/IND/fmt/png/RS-X-Geek-Unisex-Sneakers");
+    height: 550px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.pre{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
+
+.button{
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  margin: 7px;
+  background-color:transparent;
+  align-items: center;
+  justify-content: center;
+  font-weight:bolder;
+  font-size: large;
+  color: black;
+  border: 0.5px solid lightgray;
+  font-size: medium;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.add{
+  height: 50px;
+  width: 250px;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.wishlist{
+  height: 50px;
+  width: 150px;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+ margin-left: 15px;
+}
+
+.txt{
+ font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: 200;
+ 
+}

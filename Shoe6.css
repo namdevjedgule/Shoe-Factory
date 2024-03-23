@@ -1,0 +1,125 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.container {
+    display: flex; 
+  }
+  
+  .column {
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 10px; 
+    text-align: center; 
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+.img1{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bdfde99d1b374dafb21dae2a008ab946_9366/Supernova_2_Running_Shoes_White_GZ6939_01_standard.jpg");
+    height: 550px;
+    width: 98%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img2{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/746b1212ba00468ba018ae2a008ac731_9366/Supernova_2_Running_Shoes_White_GZ6939_02_standard_hover.jpg");
+    height: 550px;
+    width: 95%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.container1{
+    display: flex; 
+  }
+  
+  .column1{
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 10px; 
+    margin-left: 10px;
+    text-align: center; 
+    margin-top: 10px;
+  }
+
+  .img3{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/53432f2fbbbe4c94b9acae2a008ace2d_9366/Supernova_2_Running_Shoes_White_GZ6939_03_standard.jpg");
+    height: 550px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img4{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52481e02e00d41378830ae2a008ad62e_9366/Supernova_2_Running_Shoes_White_GZ6939_04_standard.jpg");
+    height: 550px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.pre{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
+
+.button{
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  margin: 7px;
+  background-color:transparent;
+  align-items: center;
+  justify-content: center;
+  font-weight:bolder;
+  font-size: large;
+  color: black;
+  border: 0.5px solid lightgray;
+  font-size: medium;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.add{
+  height: 50px;
+  width: 250px;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.wishlist{
+  height: 50px;
+  width: 150px;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+ margin-left: 15px;
+}
+
+.txt{
+ font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+ 
+}

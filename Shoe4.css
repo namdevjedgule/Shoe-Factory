@@ -1,0 +1,126 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex; 
+  }
+  
+  .column {
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 10px; 
+    text-align: center; 
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+.img1{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a21b23e8b333487b8f378b88847e450b_9366/Grand_Court_Base_Lifestyle_Court_Casual_Shoes_White_GY2490_01_standard.jpg");
+    height: 550px;
+    width: 98%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img2{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0481d6749e844bf985cb4a1426d8f472_9366/Grand_Court_Base_Lifestyle_Court_Casual_Shoes_White_GY2490_02_standard_hover.jpg");
+    height: 550px;
+    width: 95%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.container1{
+    display: flex; 
+  }
+  
+  .column1{
+    flex: 1; 
+   /* border: 1px solid; */
+    padding: 10px; 
+    margin-left: 10px;
+    text-align: center; 
+    margin-top: 10px;
+  }
+
+  .img3{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d1f29a8a176f436c9bef9d8572e7f8c8_9366/Grand_Court_Base_Lifestyle_Court_Casual_Shoes_White_GY2490_04_standard.jpg");
+    height: 550px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.img4{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/51f5dd984ece4ab5b8b2af44928ebeda_9366/Grand_Court_Base_Lifestyle_Court_Casual_Shoes_White_GY2490_06_standard.jpg");
+    height: 550px;
+    width: 96%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    background-position: center;
+}
+
+.pre{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: red;
+}
+
+.button{
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  margin: 7px;
+  background-color:transparent;
+  align-items: center;
+  justify-content: center;
+  font-weight:bolder;
+  font-size: large;
+  color: black;
+  border: 0.5px solid lightgray;
+  font-size: medium;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.add{
+  height: 50px;
+  width: 250px;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.wishlist{
+  height: 50px;
+  width: 150px;
+  background-color: transparent;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+ margin-left: 15px;
+}
+
+.txt{
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 20px !important;
+  font-weight: 100;
+ 
+}

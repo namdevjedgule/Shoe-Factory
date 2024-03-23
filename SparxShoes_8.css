@@ -1,0 +1,345 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: fantasy;
+}
+
+.h1{
+    font-size: 80px;
+    font-weight: bolder !important;
+    top: 40px;
+    margin-left: 20px;
+}
+
+.bg{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cc685791576a4273ad5eaed701484af6_9366/NMD_R1_Shoes_Red_GX9888_01_standard.jpg");
+    height: 550px;
+    width: 1300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 55px;
+}
+
+.mdiv1{
+    height:550px;
+    width: 350px;
+    border: 1px solid lightgray;
+    background-position: center;
+    background-size: cover;
+  
+}
+
+.img1{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-230-WHGN-5.jpg");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img2{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-230-WHGN-1.jpg");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt1{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img3{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-230-WHGN-6.jpg");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt2{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img4{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-230-WHGN-4.jpg");
+    height: 400px;
+    width: 300px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt3{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container{
+    display: flex;
+    background-position: center;
+    margin-left: 5px !important;
+}
+
+h3{
+   margin-left: 20px;
+   font-size: 40px !important;
+   margin-top: 20px;
+   font-weight: 400 !important;
+}
+
+.img5{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e08277fb-d600-4562-96c1-aba64e6caafb/blazer-mid-77-shoes-kqJpbl.png");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt4{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img6{
+    background-image: url("https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b33dc43-bece-472b-8caf-8129ca1cc7c9/blazer-mid-77-shoes-kqJpbl.png");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt5{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img7{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e05f0c8d3d86471ba099af0e01166144_9366/Alphaboost_V1_Shoes_Black_HP2760_01_standard.jpg");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt6{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img8{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a21b23e8b333487b8f378b88847e450b_9366/Grand_Court_Base_Lifestyle_Court_Casual_Shoes_White_GY2490_01_standard.jpg");
+    height: 400px;
+    width: 300px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt7{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container1{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+}
+
+.img9{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/980b261d1ede4f98bb2baf49006a4796_9366/HYPERON_1.0_SHOES_Grey_CM4822_01_standard.jpg");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt8{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 5px;
+}
+
+
+.img10{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/faf5b064322c4642af7aaf7000db7081_9366/Galaxy_6_Shoes_White_HP2403_01_standard.jpg");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt9{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img11{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6bf5632bf7b74320b80baf8f015db8e4_9366/Duramo_10_Shoes_Blue_HP2383_01_standard.jpg");
+    height: 400px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+}
+.txt10{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img12{
+    background-image: url("https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/069676a36a164de29337af8f009f726b_9366/HALICON_SHOES_Black_GC0607_01_standard.jpg");
+    height: 400px;
+    width: 300px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt11{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container2{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+}

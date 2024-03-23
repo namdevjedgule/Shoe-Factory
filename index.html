@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FrontPage</title>
+    <link rel="stylesheet" href="index.css">
+    <script>
+        
+        var redirectUrl = 'Home.html';
+        var delay = 2500; 
+        function autoRedirect() {
+          setTimeout(function () {
+           
+            window.location.href = redirectUrl;
+          }, delay);
+        }
+        window.onload = autoRedirect;
+      </script>
+</head>
+<body>
+    <div class="mdiv">
+        <div class=" img kenburns-top">
+
+        </div>
+        <div class="arrowblock">
+            <div class="heading">
+                <h1>The Shoe Factory</h1>
+            </div>
+            <br><br>
+            <div class="button">
+                <a href="Home.html"><input type="button" name="button" value="Shop Here" class="buttonlogin" style="cursor: pointer;"></a>
+            </div>
+            
+        </div>
+        
+      
+    </div>
+    
+</body>
+</html>

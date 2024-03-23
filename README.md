@@ -1,2 +1,2 @@
-# Shoe-Factory
- Created a Shoe factory application using HTML, CSS.
+# Project
+ HTML CSS Project

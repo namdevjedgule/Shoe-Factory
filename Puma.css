@@ -1,0 +1,250 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.h1{
+    font-size: 100%;
+    font-weight: bolder !important;
+    margin-top: 2% !important;
+    margin-left: 5%;
+}
+
+.bg{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/307817/01/sv01/fnd/IND/fmt/png/Scuderia-Ferrari-x-Joshua-Vides-RS-X-Unisex-Sneakers");
+    height: 550px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5%;
+}
+
+.mdiv1{
+    height:550px;
+    width: 30%;
+    border: 1px solid lightgray;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+}
+
+h3{
+   margin-left: 20px;
+   font-size: 40px !important;
+   margin-top: 20px;
+   font-weight: 400 !important;
+}
+
+.img5{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/307826/02/sv01/fnd/IND/fmt/png/Scuderia-Ferrari-Clyde-Unisex-Sneakers");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-right: 4%;
+    margin-left: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt4{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img6{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/393070/04/sv01/fnd/IND/fmt/png/Mayze-Crashed-PRM-Women's-Sneakers");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt5{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img7{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/393152/01/sv01/fnd/IND/fmt/png/Blktop-Rider-Lithium-Unisex-Sneakers");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-right: 4%;
+    margin-left: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt6{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img8{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/385839/05/sv01/fnd/IND/fmt/png/RBD-Game-Unisex-Sneakers");
+    height: 400px;
+    width: 90%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt7{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container1{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+    margin-right: 13px;
+}
+
+.img9{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/391174/11/sv01/fnd/IND/fmt/png/RS-X-Geek-Unisex-Sneakers");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt8{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 5px;
+}
+
+
+.img10{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/391174/07/sv01/fnd/IND/fmt/png/RS-X-Geek-Unisex-Sneakers");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt9{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img11{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/392725/16/sv01/fnd/IND/fmt/png/Blktop-Rider-Unisex-Sneakers");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt10{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img12{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/381141/19/sv01/fnd/IND/fmt/png/Future-Rider-Soft-Women's-Sneakers");
+    height: 400px;
+    width: 90%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt11{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container2{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+    margin-right: 13px;
+}

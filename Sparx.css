@@ -1,0 +1,250 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.h1{
+    font-size: 100%;
+    font-weight: bolder !important;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.bg{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SM-801-BKWH-1.jpg");
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5%;
+}
+
+.mdiv1{
+    height:550px;
+    width: 30%;
+    border: 1px solid lightgray;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+}
+
+h3{
+   margin-left: 20px;
+   font-size: 40px !important;
+   margin-top: 20px;
+   font-weight: 400 !important;
+}
+
+.img5{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SM-737-WHGE-1.jpg");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-right: 4%;
+    margin-left: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt4{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img6{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-231-TULP-1.jpg");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt5{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img7{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SM-162-BKBK-4.jpg");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-right: 4%;
+    margin-left: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt6{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img8{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SK-540-NVBL-1.jpg");
+    height: 400px;
+    width: 90%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt7{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container1{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+    margin-right: 13px;
+}
+
+.img9{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-242-LPRC-1.jpg");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt8{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 5px;
+}
+
+
+.img10{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SM-734-WHGY-1.jpg");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt9{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img11{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/images/product/image/sm-641-bmno-1630400150.jpg");
+    height: 400px;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+}
+.txt10{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+
+.img12{
+    background-image: url("https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-230-WHGN-1.jpg");
+    height: 400px;
+    width: 90%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 2%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.txt11{
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: center;
+    margin-top: 15px;
+}
+
+.container2{
+    display: flex;
+    background-position: center;
+    margin-left: 13px !important;
+    margin-right: 13px;
+}
